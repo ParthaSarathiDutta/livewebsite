@@ -20,7 +20,7 @@ function App() {
           <h1 className="hero-title">
             Corned Beef Hash & Coffee:
             <br />
-            The Perfect Morning Ritual
+            The Perfect Morning 
           </h1>
           <p className="hero-subtitle">
             Discover why corned beef hash, paired with a fresh cup of coffee, is the ultimate way to start your day.
